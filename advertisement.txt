@@ -1,2 +1,22 @@
-Para mejorar tu experiencia, CaniPresupuestos recolecta información anónima (marca, modelo, SO, RAM y memoria interna disponible de tu dispositivo) del comportamiento de la aplicación en tu dispositivo. Dicha información es enviada al desarrollador. 
-Si no estás de acuerdo en compartir dichos datos, o tenés alguna duda, podés contactar al desarrollador mediante el contacto especificado con la distribución de esta versión.
+1. Recopilación de datos.
+
+Para mejorar tu experiencia, CaniPresupuestos (en adelante, "la aplicación") recolecta información anónima de tu dispositivo y como la aplicación se comporta en él. 
+Algunos de los datos que se pueden recolectar, pero sin limitación, son: 
+- Marca,
+- Modelo,
+- SO,
+- RAM y
+- Memoria interna disponible.
+
+2. Uso del servicio.
+
+No podrás (o ayudar a otros a) acceder, usar, copiar, adaptar, modificar, distribuir, licenciar, sublicenciar, transferir, mostrar, ejecutar o explotar de otra manera los servicios prestados por la aplicación.
+Es decir que estarás limitado a no, pero no se limita a:
+2.1: Usar técnicas de ingeniería inversa para acceder al código, o archivos ocultos, de la aplicación, y/o sus servicios.
+2.2: Crear cuentas falsas con el fin de alterar la funcionalidad de la aplicación y/o sus servicios.
+2.3: Ejercer cualquier otra técnica, con fines maliciosos, sobre la aplicación y/o sus servicios.
+2.4: Acceder a los servicios de la aplicación, utilizando otras herramientas, con cualquier tipo de fin.
+
+
+
+En caso de violar alguno de los, mencionados anteriormente, términos de uso del servicio, tu cuenta podría ser sancionada permanentemente. Sin la posibilidad de crear una nueva.
