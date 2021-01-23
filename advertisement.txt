@@ -1,6 +1,6 @@
 1. Recopilación de datos.
 
-Para mejorar tu experiencia, CaniPresupuestos (en adelante, "la aplicación") recolecta información anónima de tu dispositivo y como la aplicación se comporta en él. 
+Para mejorar tu experiencia, CaniPresupuestos (en adelante, "la aplicación") recolecta información anónima de tu dispositivo y cómo la aplicación se comporta en él. 
 Algunos de los datos que se pueden recolectar, pero sin limitación, son: 
 - Marca,
 - Modelo,
